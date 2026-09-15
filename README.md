@@ -1,8 +1,10 @@
 09.15.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: shrnbernard@yahoo.com, franknotfrank@aol.com
-At: 2026-09-15 21:35:45
-Id: LsnNJdLF
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: arny@chartermi.net, yangunu@yahoo.com
+At: 2026-09-15 21:36:24
+Id: Y6CPVBV1
